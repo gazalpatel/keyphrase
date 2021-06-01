@@ -1,0 +1,12 @@
+# transformers>=3.1.0,<3.4.0
+# tqdm
+# torch>=1.2.0
+numpy
+scikit-learn
+scipy
+nltk
+unidecode
+contractions
+word2number
+bs4
+spacy
