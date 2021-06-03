@@ -10,3 +10,4 @@ contractions
 word2number
 bs4
 spacy
+inflect
